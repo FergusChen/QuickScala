@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-QuickScala.iml
+*.iml
 ### Scala template
 # *.class
 # *.log
